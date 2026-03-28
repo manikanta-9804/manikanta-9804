@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/manikanta-9804/manikanta-9804/Black Modern Personal LinkedIn Banner.png" alt="GitHub Banner" width="800"/>
+  <img src="[https://github.com/manikanta-9804/manikanta-9804/Black Modern Personal LinkedIn Banner.png](https://github.com/manikanta-9804/manikanta-9804/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png)" alt="GitHub Banner" width="800"/>
 </div>
 
 # 👋 Hi, I'm Manikanta Reddy Allatipalli
