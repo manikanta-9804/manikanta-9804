@@ -71,12 +71,17 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **3+ yea
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=manikanta-9804&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=manikanta-9804&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manikanta-9804&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=manikanta-9804&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=manikanta-9804&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manikanta-9804&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 
 ---
