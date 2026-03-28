@@ -7,10 +7,9 @@
 ### DevOps Engineer   
 🚀 DevOps • SRE • Cloud Engineer | AWS | CI/CD | Kubernetes | Terraform | Ansible
 
-[![Topmate](https://img.shields.io/badge/Topmate-Book%20a%201:1-green?logo=meetup&style=flat)](https://topmate.io/hari_palepu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/haripalepu/)
-[![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@hareepalepu)
-[![Gmail](https://img.shields.io/badge/Email-harikpalepu@gmail.com-red?logo=gmail&style=flat)](mailto:harikpalepu@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/manikanta-reddy-allatipalli-2707a93b9)
+[![Gmail](https://img.shields.io/badge/Email-allatipallimanikantareddy@gmail.com-red?logo=gmail&style=flat)](mailto:allatipallimanikantareddy@gmail.com)
 
 ---
 
