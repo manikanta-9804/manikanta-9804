@@ -49,7 +49,7 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **3+ yea
 ### 💼 Career Snapshot
 
 - 🏢 **Infosys** – *Sysyem Engineer – SRE*  
-  Managing AES-based infrastructure with Kubernetes and Jenkins. Driving CI/CD and observability strategy across critical internal platforms.
+  Managing AWS-based infrastructure with Kubernetes and Jenkins. Driving CI/CD and observability strategy across critical internal platforms.
 
 
 ---
