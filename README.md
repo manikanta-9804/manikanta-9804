@@ -9,6 +9,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/manikanta-reddy-allatipalli-2707a93b9)
+[![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@allatipallimanikantareddy)
 [![Gmail](https://img.shields.io/badge/Email-allatipallimanikantareddy@gmail.com-red?logo=gmail&style=flat)](mailto:allatipallimanikantareddy@gmail.com)
 
 ---
