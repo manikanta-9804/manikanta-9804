@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Manikanta Reddy Allatipalli
 
 ### DevOps Engineer   
-🚀 DevOps • SRE • Cloud Engineer | AWS | CI/CD | Kubernetes | Terraform | Ansible
+🚀 DevOps • SRE • Cloud Engineer | AWS | CI/CD | Kubernetes | Ansible | Terraform
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/manikanta-reddy-allatipalli-2707a93b9)
