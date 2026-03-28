@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/manikanta-9804/manikanta-9804/blob/main/github_banner.png" alt="GitHub Banner" width="1200"/>
+  <img src="https://github.com/manikanta-9804/manikanta-9804/blob/main/GitHub_Banner.png" alt="GitHub Banner" width="1200"/>
 </div>
 
 # 👋 Hi, I'm Manikanta Reddy Allatipalli
