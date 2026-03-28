@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Manikanta Reddy Allatipalli
 
-### DevOps EngineerSoftware Engineer II – SRE @ JPMorgan Chase  
+### DevOps Engineer   
 🚀 DevOps • SRE • Cloud Engineer | AWS | CI/CD | Kubernetes | Terraform | Ansible
 
 [![Topmate](https://img.shields.io/badge/Topmate-Book%20a%201:1-green?logo=meetup&style=flat)](https://topmate.io/hari_palepu)
