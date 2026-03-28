@@ -83,6 +83,14 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **3+ yea
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manikanta-9804&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
+---
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/Haripalepu/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+---
 
 ---
 Thanks for visiting!
