@@ -72,22 +72,4 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **3+ yea
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haripalepu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Haripalepu&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haripalepu&theme=dark&hide_border=false&layout=compact" />
-</div>
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/manikanta-9804/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
----
-
 Thanks for visiting!
